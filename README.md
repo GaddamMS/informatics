@@ -7,3 +7,5 @@ The University of Oklahoma IT Informatics team has a broad suite of cyberinfrast
 ### Informatics Wiki
 
 [Informatics Wiki](https://github.com/ouinformatics/informatics/wiki)
+
+[Informatics](http://ouinformatics.github.io/informatics)
