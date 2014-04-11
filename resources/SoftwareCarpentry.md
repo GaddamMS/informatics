@@ -1,5 +1,6 @@
 --- 
 layout: page
+root: ../
 title: Software Carpentry 
 ---
 

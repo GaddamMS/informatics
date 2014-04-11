@@ -1,5 +1,6 @@
 ---
 layout: page
+root: ../
 title: About OU Research Informatics
 ---
 
