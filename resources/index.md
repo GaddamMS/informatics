@@ -25,6 +25,11 @@ The above list is not exhuastive or necessarily up-to date.  Our team works to
 stay abreast of available hardware, software and tools that can be useful to
 researchers at OU.
 
+# Informational Resources
+
+* [Informatics Wiki](https://github.com/ouinformatics/informatics/wiki) -
+Dynamic wiki pages where we link to resources and how-to Documents
+
 # Computational Resources
 
 * [OU Research Cloud](OURCloud.html)
