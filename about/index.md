@@ -19,7 +19,7 @@ Jonah is a data scientist with the University of Oklahoma's IT informatics group
 
 ## Mark Stacy
 
-Mark is a data scientist with the University of Oklahoma IT informatics group, specializing in database , metadata, and software development and management. He holds a BS in Physical Threapy from the University of Oklahoma and a MS in Computer Science from Oklhaoma City University.
+Mark is a data scientist with the University of Oklahoma IT informatics group, specializing in database management, metadata, and software development and management. He holds a BS in Physical Threapy from the University of Oklahoma and a MS in Computer Science from Oklhaoma City University.
 
 * Twitter: [@mbstacy](http://twitter.com/mbstacy)
 * Github: [mbstacy](http://github.com/mbstacy)
